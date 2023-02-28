@@ -298,3 +298,15 @@ footer p:nth-child(2){
     bottom: 35px;
     font-size: 14px;
 }
+@media (max-width: 768px) {
+    /* Styles for screens with a maximum width of 768px */
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* Styles for screens with a minimum width of 769px and a maximum width of 1024px */
+  }
+  
+  @media (min-width: 1025px) {
+    /* Styles for screens with a minimum width of 1025px */
+  }
+  
